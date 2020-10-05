@@ -1,2 +1,2 @@
 # trivia
-Juego de trivia.
+Juego de trivia en idioma inglés.

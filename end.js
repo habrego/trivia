@@ -1,4 +1,4 @@
-//  id=201009
+//  id=201009x
 const username = document.getElementById('username');
 const saveScoreBtn = document.getElementById('saveScoreBtn');
 const finalScore = document.getElementById('finalScore');

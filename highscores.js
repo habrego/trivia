@@ -1,4 +1,4 @@
-// id=201009x
+// id=201009
 const highScoresList = document.getElementById("highScoresList");
 const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
 
